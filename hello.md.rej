@@ -1,16 +1,9 @@
 diff a/hello.md b/hello.md	(rejected hunks)
-@@ -1,8 +1,10 @@
+@@ -1,6 +1,6 @@
  # hello.git
  
--## git 명령어요약 summary of command
-+## git 紐?????summary of command
+-## git ��ɾ���
++## git ��ɾ��� summary of command
  
  - clone: copy from remote repository
  - add: file add on stage area
- - commit: save, save file from stage area.
--- push: upload to remote repository
-\ No newline at end of file
-+- push: upload to remote repository
-+
-+- ㅅㄷㄴㅅ ㅅㄷㄴㅅ
-\ No newline at end of file

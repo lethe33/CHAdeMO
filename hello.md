@@ -6,3 +6,4 @@
 - add: file add on stage area
 - commit: save, save file from stage area.
 - push: upload to remote repository
+- 한글 테스트

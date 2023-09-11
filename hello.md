@@ -1,6 +1,6 @@
 # hello.git
 
-## git 명령어요약
+## git 명령어요약 summary of command
 
 - clone: copy from remote repository
 - add: file add on stage area

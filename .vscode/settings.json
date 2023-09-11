@@ -1,0 +1,10 @@
+{
+    "stm32-for-vscode.openOCDPath": false,
+    "stm32-for-vscode.makePath": false,
+    "files.associations": {
+        "main.h": "c",
+        "chademo.h": "c",
+        "stm32f4xx_hal_def.h": "c",
+        "stm32f4xx_hal_can.h": "c"
+    }
+}

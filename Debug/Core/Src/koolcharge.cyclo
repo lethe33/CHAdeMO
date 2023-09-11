@@ -1,0 +1,8 @@
+../Core/Src/koolcharge.c:16:6:delay1ms	1
+../Core/Src/koolcharge.c:20:6:delay5ms	1
+../Core/Src/koolcharge.c:23:6:delay10ms	1
+../Core/Src/koolcharge.c:25:6:delay50ms	1
+../Core/Src/koolcharge.c:27:6:delay100ms	1
+../Core/Src/koolcharge.c:29:6:delay500ms	1
+../Core/Src/koolcharge.c:31:6:delay1sec	1
+../Core/Src/koolcharge.c:35:6:mainProcess	8

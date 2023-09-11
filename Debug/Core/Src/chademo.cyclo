@@ -1,0 +1,12 @@
+../Core/Src/chademo.c:35:10:get_ChargingCurrentRequest	1
+../Core/Src/chademo.c:40:6:CHAdeMO_Select_ChargeMode	1
+../Core/Src/chademo.c:43:6:CHAdeMO_Monitoring	1
+../Core/Src/chademo.c:44:6:CHAdeMO_Status_Refresh	1
+../Core/Src/chademo.c:45:6:CHAdeMO_Sub_01_Process	1
+../Core/Src/chademo.c:46:6:CHAdeMO_Sub_02_Process	1
+../Core/Src/chademo.c:47:6:CHAdeMO_Sub_03_Process	1
+../Core/Src/chademo.c:48:6:CHAdeMO_Sub_04_Process	1
+../Core/Src/chademo.c:49:6:CHAdeMO_Sub_05_Process	1
+../Core/Src/chademo.c:50:6:CHAdeMO_Sub_06_Process	1
+../Core/Src/chademo.c:51:6:CHAdeMO_StateProcess	1
+../Core/Src/chademo.c:54:6:CHAdeMO_Process	1
